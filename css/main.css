@@ -97,6 +97,15 @@ body {
     color: whitesmoke;
 }
 
-.fa-envelope-o {
+.link-1 {
     color: whitesmoke;
+}
+
+.link-1:hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.mail {
+    color: white;
 }
